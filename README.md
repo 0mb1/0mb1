@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Kirill
+- 👋 Hi, my name is Kirill and im 25 y.o Ukrainian, right now live in Berlin
 - 👀 I’m interested in development it-self really like coding on (React) but have skills at JaveScript, NextJs, NodeJs, working with API, SQL, handlebars, know a bit about VueJs willing to learn a lot of new stuff
 - 🌱 I’m currently learning React, TypeScript
 - 💞️ I’m looking to work on any type of project, but would be interesting to work on music industry!
